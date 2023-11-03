@@ -1,4 +1,4 @@
-[![Run App Jun Shen Yap](https://github.com/JohnsonYap-1211/GithubActions/actions/workflows/run-app.yaml/badge.svg?branch=master)](https://github.com/JohnsonYap-1211/GithubActions/actions/workflows/run-app.yaml)
+[![Run App Rick](https://github.com/JohnsonYap-1211/GithubActions/actions/workflows/run-app.yaml/badge.svg?branch=master)](https://github.com/JohnsonYap-1211/GithubActions/actions/workflows/run-app.yaml)
 # Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
 
 (I receive around 60 pull requests every semester and have to manually delete each request and action run.)
